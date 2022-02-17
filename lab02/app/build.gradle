@@ -27,7 +27,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'lab02.App'
+    mainClass = 'lab02.SimpleTest'
 }
 
 tasks.named('test') {

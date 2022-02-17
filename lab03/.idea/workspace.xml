@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a05bcf1f-f84c-46fc-ac19-9432c0260505" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lab03/CSVDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../beta-2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../beta-test" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab02/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab02/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../main-test" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab04" />
   </component>
   <component name="RunManager" selected="Application.CSVDemo">
     <configuration name="CSVDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
