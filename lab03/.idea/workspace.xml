@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a05bcf1f-f84c-46fc-ac19-9432c0260505" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../beta-2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../beta-test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main-test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab05/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab05/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.CSVDemo">
     <configuration name="CSVDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
